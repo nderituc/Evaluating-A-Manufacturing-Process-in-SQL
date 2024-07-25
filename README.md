@@ -15,7 +15,7 @@ The UCL defines the highest acceptable height for the parts, while the LCL defin
 Using SQL window functions and nested queries, I analyzed historical manufacturing data to define this acceptable range and identify any points in the process that fall outside of the range and therefore require adjustments. This will ensure a smooth running manufacturing process consistently making high-quality products.
 
 ## The data
-The data has the following fields:
+The data 'Manufacturing parts' has the following fields:
 - `item_no`: the item number
 - `length`: the length of the item made
 - `width`: the width of the item made
