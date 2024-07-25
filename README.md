@@ -21,5 +21,5 @@ The data 'Manufacturing parts' has the following fields:
 - `width`: the width of the item made
 - `height`: the height of the item made
 - `operator`: the operating machine
-  # Solution
+## Solution
 ![S](https://github.com/user-attachments/assets/641e066c-59f3-4dce-8229-0f116b493609)
