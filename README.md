@@ -1,5 +1,4 @@
 # Evaluating-A-Manufacturing-Process-in-SQL
-![manufacturing gears](manufacturing.jpg)
 
 Manufacturing processes for any product is like putting together a puzzle. Products are pieced together step by step, and keeping a close eye on the process is important.
 
